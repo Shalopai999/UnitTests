@@ -1,10 +1,6 @@
 package org.example;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
-
 import static org.example.Main.evenOddNumber;
 import static org.example.Main.numberInInterval;
 import static org.junit.Assert.assertFalse;
